@@ -11,3 +11,5 @@ Prototipo-Telemonitoreo-ThingSpeak
 
 # //El presente proyecto de tesis utiliza diversas librerias de otros autores adjuntas en este repositorio.
 # //El diseño de los programas completos fueron desarrollados por el autor.
+# //El digo puede ser usado en la plataforma IoT Node MCU v2 - con el módulo ESP8266 - 12F
+# //Las sentencias pueden no ser aptas para otras plataformas dentro del entorno del Arduino IDE.
